@@ -1,1 +1,2 @@
 # ITgogogo
+echo 'hello world';
